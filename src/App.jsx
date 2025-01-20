@@ -3,8 +3,8 @@ import reactLogo from "./assets/react.svg";
 import viteLogo from "/vite.svg";
 import "./App.css";
 import axios from "axios";
-import Current from "./components/current";
-import Forecast from "./Components/Forecast.";
+import Current from "./components/Current.jsx";
+import Forecast from "./Components/Forecast..jsx";
 import '../node_modules/bootstrap/dist/js/bootstrap'
 
 function App() {
